@@ -65,7 +65,7 @@ Namespace My.Resources
         End Property
         
         '''<summary>
-        '''  Sucht eine lokalisierte Zeichenfolge, die Accounting - Main menu ähnelt.
+        '''  Sucht eine lokalisierte Zeichenfolge, die Accounting • Main menu ähnelt.
         '''</summary>
         Friend Shared ReadOnly Property main_menu_title() As String
             Get
@@ -88,6 +88,15 @@ Namespace My.Resources
         Friend Shared ReadOnly Property settings() As String
             Get
                 Return ResourceManager.GetString("settings", resourceCulture)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Sucht eine lokalisierte Zeichenfolge, die Accounting • Settings menu ähnelt.
+        '''</summary>
+        Friend Shared ReadOnly Property settings_menu_title() As String
+            Get
+                Return ResourceManager.GetString("settings_menu_title", resourceCulture)
             End Get
         End Property
     End Class

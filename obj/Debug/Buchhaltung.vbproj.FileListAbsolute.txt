@@ -15,3 +15,4 @@ C:\Users\D-J.Eden\source\repos\Buchhaltung\obj\Debug\Buchhaltung.exe
 C:\Users\D-J.Eden\source\repos\Buchhaltung\obj\Debug\Buchhaltung.xml
 C:\Users\D-J.Eden\source\repos\Buchhaltung\obj\Debug\Buchhaltung.pdb
 C:\Users\D-J.Eden\source\repos\Buchhaltung\obj\Debug\Buchhaltung.en_language.resources
+C:\Users\D-J.Eden\source\repos\Buchhaltung\obj\Debug\Buchhaltung.Settings_Main_Menu.resources

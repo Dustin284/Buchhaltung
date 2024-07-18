@@ -6,6 +6,12 @@
     End Sub
 
 
+
+
+    Private Sub EinstellungenToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles EinstellungenToolStripMenuItem.Click
+        Settings_Main_Menu.Show()
+    End Sub
+
     Private Function GetLocalizedText(key As String) As String
         Return LocalizationManager.ResourceManager.GetString(key)
     End Function

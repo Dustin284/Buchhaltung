@@ -31,23 +31,27 @@ Partial Class Main_menu
         '
         'MenuStrip1
         '
+        Me.MenuStrip1.Dock = System.Windows.Forms.DockStyle.Left
         Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.StammdatenToolStripMenuItem, Me.EinstellungenToolStripMenuItem})
+        Me.MenuStrip1.LayoutStyle = System.Windows.Forms.ToolStripLayoutStyle.VerticalStackWithOverflow
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
-        Me.MenuStrip1.Size = New System.Drawing.Size(800, 24)
+        Me.MenuStrip1.Size = New System.Drawing.Size(126, 450)
         Me.MenuStrip1.TabIndex = 0
         Me.MenuStrip1.Text = "MenuStrip1"
         '
         'StammdatenToolStripMenuItem
         '
+        Me.StammdatenToolStripMenuItem.Image = Global.Buchhaltung.My.Resources.Resources.big_data_50x50
         Me.StammdatenToolStripMenuItem.Name = "StammdatenToolStripMenuItem"
-        Me.StammdatenToolStripMenuItem.Size = New System.Drawing.Size(87, 20)
+        Me.StammdatenToolStripMenuItem.Size = New System.Drawing.Size(113, 20)
         Me.StammdatenToolStripMenuItem.Text = "Stammdaten"
         '
         'EinstellungenToolStripMenuItem
         '
+        Me.EinstellungenToolStripMenuItem.Image = Global.Buchhaltung.My.Resources.Resources.setting_50x50
         Me.EinstellungenToolStripMenuItem.Name = "EinstellungenToolStripMenuItem"
-        Me.EinstellungenToolStripMenuItem.Size = New System.Drawing.Size(90, 20)
+        Me.EinstellungenToolStripMenuItem.Size = New System.Drawing.Size(113, 20)
         Me.EinstellungenToolStripMenuItem.Text = "Einstellungen"
         '
         'Main_menu

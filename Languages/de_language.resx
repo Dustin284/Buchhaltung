@@ -117,16 +117,36 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="database" xml:space="preserve">
+    <value>Datenbank</value>
+    <comment>Universal</comment>
+  </data>
+  <data name="general" xml:space="preserve">
+    <value>Allgemein</value>
+    <comment>Universal</comment>
+  </data>
   <data name="main_menu_title" xml:space="preserve">
-    <value>Accounting - Main menu</value>
+    <value>Buchhaltung • Hauptmenü</value>
     <comment>Hauptmenü Titel</comment>
   </data>
   <data name="master_data" xml:space="preserve">
-    <value>Master data</value>
+    <value>Stammdaten</value>
     <comment>Hauptmenü Menü</comment>
   </data>
   <data name="settings" xml:space="preserve">
-    <value>Settings</value>
+    <value>Einstellungen</value>
+    <comment>Universal</comment>
+  </data>
+  <data name="settings_menu_title" xml:space="preserve">
+    <value>Buchhaltung • Einstellungen</value>
+    <comment>Einstellungenmenü Titel</comment>
+  </data>
+  <data name="String1" xml:space="preserve">
+    <value />
+    <comment> </comment>
+  </data>
+  <data name="users" xml:space="preserve">
+    <value>Benutzer</value>
     <comment>Universal</comment>
   </data>
 </root>
