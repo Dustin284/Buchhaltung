@@ -1,0 +1,17 @@
+C:\Users\D-J.Eden\source\repos\Buchhaltung\obj\Debug\Buchhaltung.vbproj.AssemblyReference.cache
+C:\Users\D-J.Eden\source\repos\Buchhaltung\obj\Debug\Buchhaltung.Resources.resources
+C:\Users\D-J.Eden\source\repos\Buchhaltung\obj\Debug\Buchhaltung.vbproj.GenerateResource.cache
+C:\Users\D-J.Eden\source\repos\Buchhaltung\obj\Debug\Buchhaltung.vbproj.CoreCompileInputs.cache
+C:\Users\D-J.Eden\source\repos\Buchhaltung\obj\Debug\Buchhaltung.de_language.resources
+C:\Users\D-J.Eden\source\repos\Buchhaltung\bin\Debug\Buchhaltung.exe.config
+C:\Users\D-J.Eden\source\repos\Buchhaltung\bin\Debug\Buchhaltung.exe
+C:\Users\D-J.Eden\source\repos\Buchhaltung\bin\Debug\Buchhaltung.pdb
+C:\Users\D-J.Eden\source\repos\Buchhaltung\bin\Debug\Buchhaltung.xml
+C:\Users\D-J.Eden\source\repos\Buchhaltung\bin\Debug\Newtonsoft.Json.dll
+C:\Users\D-J.Eden\source\repos\Buchhaltung\bin\Debug\Newtonsoft.Json.xml
+C:\Users\D-J.Eden\source\repos\Buchhaltung\obj\Debug\Buchhaltung.Main_menu.resources
+C:\Users\D-J.Eden\source\repos\Buchhaltung\obj\Debug\Buchhalt.03293706.Up2Date
+C:\Users\D-J.Eden\source\repos\Buchhaltung\obj\Debug\Buchhaltung.exe
+C:\Users\D-J.Eden\source\repos\Buchhaltung\obj\Debug\Buchhaltung.xml
+C:\Users\D-J.Eden\source\repos\Buchhaltung\obj\Debug\Buchhaltung.pdb
+C:\Users\D-J.Eden\source\repos\Buchhaltung\obj\Debug\Buchhaltung.en_language.resources
