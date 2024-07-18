@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\D-J.Eden\\source\\repos\\Buchhaltung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E60E1200-D148-493C-A070-604C433A0F10}|Buchhaltung.vbproj|c:\\users\\d-j.eden\\source\\repos\\buchhaltung\\men\u00FCs\\main\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E60E1200-D148-493C-A070-604C433A0F10}|Buchhaltung.vbproj|solutionrelative:men\u00FCs\\main\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\D-J.Eden\\source\\repos\\Buchhaltung\\Men\u00FCs\\Main\\Form1.vb",
+              "RelativeDocumentMoniker": "Men\u00FCs\\Main\\Form1.vb",
+              "ToolTip": "C:\\Users\\D-J.Eden\\source\\repos\\Buchhaltung\\Men\u00FCs\\Main\\Form1.vb [Entwurf]",
+              "RelativeToolTip": "Men\u00FCs\\Main\\Form1.vb [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-18T20:05:14.822Z",
+              "EditorCaption": " [Entwurf]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
