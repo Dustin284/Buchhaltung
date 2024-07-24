@@ -65,6 +65,15 @@ Namespace My.Resources
         End Property
         
         '''<summary>
+        '''  Sucht eine lokalisierte Zeichenfolge, die Fehler ähnelt.
+        '''</summary>
+        Friend Shared ReadOnly Property _error() As String
+            Get
+                Return ResourceManager.GetString("error", resourceCulture)
+            End Get
+        End Property
+        
+        '''<summary>
         '''  Sucht eine lokalisierte Zeichenfolge, die Buchhaltungssoftware ähnelt.
         '''</summary>
         Friend Shared ReadOnly Property accounting_software() As String
@@ -133,6 +142,15 @@ Namespace My.Resources
         Friend Shared ReadOnly Property master_data() As String
             Get
                 Return ResourceManager.GetString("master_data", resourceCulture)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Sucht eine lokalisierte Zeichenfolge, die MySQL (Datenbank) Fehler ähnelt.
+        '''</summary>
+        Friend Shared ReadOnly Property mysql_error() As String
+            Get
+                Return ResourceManager.GetString("mysql_error", resourceCulture)
             End Get
         End Property
         

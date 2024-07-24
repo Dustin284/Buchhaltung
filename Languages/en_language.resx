@@ -129,6 +129,10 @@
     <value>Database</value>
     <comment>Universal</comment>
   </data>
+  <data name="error" xml:space="preserve">
+    <value>Error</value>
+    <comment>Universal</comment>
+  </data>
   <data name="financial_overview" xml:space="preserve">
     <value>Financial overview</value>
     <comment>Hauptmenü</comment>
@@ -148,6 +152,10 @@
   <data name="master_data" xml:space="preserve">
     <value>Master data</value>
     <comment>Hauptmenü Menü</comment>
+  </data>
+  <data name="mysql_error" xml:space="preserve">
+    <value>MySQL (Database) error</value>
+    <comment>SQL_Utils</comment>
   </data>
   <data name="settings" xml:space="preserve">
     <value>Settings</value>

@@ -1,6 +1,10 @@
-﻿Public Class Main_menu
+﻿Imports System.Drawing.Text
+
+Public Class Main_menu
+    Private sqlUtils As New SQL_Utils
     ' Main Function
     Private Sub Login_Menu_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        sqlUtils.CheckConnection()
         setText()
     End Sub
     ' Function

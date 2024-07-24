@@ -22,6 +22,11 @@ Buchhaltung
   Ressourcenzuordnungen, die diese stark typisierte Ressourcenklasse verwenden.
 </summary>
 </member>
+<member name="P:Buchhaltung.My.Resources.en_language._error">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die Error ähnelt.
+</summary>
+</member>
 <member name="P:Buchhaltung.My.Resources.en_language.accounting_software">
 <summary>
   Sucht eine lokalisierte Zeichenfolge, die Accounting Software ähnelt.
@@ -62,6 +67,11 @@ Buchhaltung
   Sucht eine lokalisierte Zeichenfolge, die Master data ähnelt.
 </summary>
 </member>
+<member name="P:Buchhaltung.My.Resources.en_language.mysql_error">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die MySQL (Database) error ähnelt.
+</summary>
+</member>
 <member name="P:Buchhaltung.My.Resources.en_language.settings">
 <summary>
   Sucht eine lokalisierte Zeichenfolge, die Settings ähnelt.
@@ -91,6 +101,11 @@ Buchhaltung
 <summary>
   Überschreibt die CurrentUICulture-Eigenschaft des aktuellen Threads für alle
   Ressourcenzuordnungen, die diese stark typisierte Ressourcenklasse verwenden.
+</summary>
+</member>
+<member name="P:Buchhaltung.My.Resources.de_language._error">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die Fehler ähnelt.
 </summary>
 </member>
 <member name="P:Buchhaltung.My.Resources.de_language.accounting_software">
@@ -131,6 +146,11 @@ Buchhaltung
 <member name="P:Buchhaltung.My.Resources.de_language.master_data">
 <summary>
   Sucht eine lokalisierte Zeichenfolge, die Stammdaten ähnelt.
+</summary>
+</member>
+<member name="P:Buchhaltung.My.Resources.de_language.mysql_error">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die MySQL (Datenbank) Fehler ähnelt.
 </summary>
 </member>
 <member name="P:Buchhaltung.My.Resources.de_language.settings">

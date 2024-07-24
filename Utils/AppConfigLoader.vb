@@ -22,7 +22,11 @@ Public Class AppConfigLoader
                 Dim jsonString As String = File.ReadAllText(_configFilePath)
                 _config = JsonConvert.DeserializeObject(Of AppConfig)(jsonString)
             Else
-                _config = New AppConfig With {.Language = "de"} ' Standard-Sprache setzen
+                ' Standard-Konfiguration setzen
+                _config = New AppConfig With {
+                    .Language = "de",
+                    .ConnectionString = "Server=srv-lh-plextex;Database=plextex;Uid=dev_dustin;Pwd=KeiWg2L.;" ' Initialisieren mit leerem String oder einem Standardwert
+                }
                 SaveConfig()
             End If
         Catch ex As Exception
@@ -45,7 +49,7 @@ Public Class AppConfigLoader
         End Try
     End Sub
 End Class
-
 Public Class AppConfig
     Public Property Language As String
+    Public Property ConnectionString As String
 End Class
