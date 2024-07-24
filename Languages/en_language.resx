@@ -117,6 +117,30 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="accounting_software" xml:space="preserve">
+    <value>Accounting Software</value>
+    <comment>Universal</comment>
+  </data>
+  <data name="booking" xml:space="preserve">
+    <value>Booking</value>
+    <comment>Hauptmenü</comment>
+  </data>
+  <data name="database" xml:space="preserve">
+    <value>Database</value>
+    <comment>Universal</comment>
+  </data>
+  <data name="financial_overview" xml:space="preserve">
+    <value>Financial overview</value>
+    <comment>Hauptmenü</comment>
+  </data>
+  <data name="general" xml:space="preserve">
+    <value>General</value>
+    <comment>Universal</comment>
+  </data>
+  <data name="last_booking" xml:space="preserve">
+    <value>Latest Booking</value>
+    <comment>Hauptmenü</comment>
+  </data>
   <data name="main_menu_title" xml:space="preserve">
     <value>Accounting • Main menu</value>
     <comment>Hauptmenü Titel</comment>
@@ -132,5 +156,9 @@
   <data name="settings_menu_title" xml:space="preserve">
     <value>Accounting • Settings menu</value>
     <comment>Einstellungenmenü Titel</comment>
+  </data>
+  <data name="users" xml:space="preserve">
+    <value>Users</value>
+    <comment>Universal</comment>
   </data>
 </root>

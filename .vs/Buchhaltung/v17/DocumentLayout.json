@@ -7,23 +7,19 @@
       "RelativeMoniker": "D:0:0:{E60E1200-D148-493C-A070-604C433A0F10}|Buchhaltung.vbproj|solutionrelative:men\u00FCs\\main\\main_menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E60E1200-D148-493C-A070-604C433A0F10}|Buchhaltung.vbproj|c:\\users\\d-j.eden\\source\\repos\\buchhaltung\\men\u00FCs\\einstellungen\\settings_main_menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{E60E1200-D148-493C-A070-604C433A0F10}|Buchhaltung.vbproj|solutionrelative:men\u00FCs\\einstellungen\\settings_main_menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E60E1200-D148-493C-A070-604C433A0F10}|Buchhaltung.vbproj|c:\\users\\d-j.eden\\source\\repos\\buchhaltung\\men\u00FCs\\main\\main_menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{E60E1200-D148-493C-A070-604C433A0F10}|Buchhaltung.vbproj|C:\\Users\\D-J.Eden\\source\\repos\\Buchhaltung\\men\u00FCs\\main\\main_menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{E60E1200-D148-493C-A070-604C433A0F10}|Buchhaltung.vbproj|solutionrelative:men\u00FCs\\main\\main_menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D-J.Eden\\AppData\\Roaming\\Buchhaltung\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E60E1200-D148-493C-A070-604C433A0F10}|Buchhaltung.vbproj|c:\\users\\d-j.eden\\source\\repos\\buchhaltung\\languages\\en_language.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{E60E1200-D148-493C-A070-604C433A0F10}|Buchhaltung.vbproj|solutionrelative:languages\\en_language.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E60E1200-D148-493C-A070-604C433A0F10}|Buchhaltung.vbproj|c:\\users\\d-j.eden\\source\\repos\\buchhaltung\\men\u00FCs\\einstellungen\\settings_main_menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{E60E1200-D148-493C-A070-604C433A0F10}|Buchhaltung.vbproj|solutionrelative:men\u00FCs\\einstellungen\\settings_main_menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E60E1200-D148-493C-A070-604C433A0F10}|Buchhaltung.vbproj|c:\\users\\d-j.eden\\source\\repos\\buchhaltung\\languages\\de_language.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "AbsoluteMoniker": "D:0:0:{E60E1200-D148-493C-A070-604C433A0F10}|Buchhaltung.vbproj|C:\\Users\\D-J.Eden\\source\\repos\\Buchhaltung\\languages\\de_language.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{E60E1200-D148-493C-A070-604C433A0F10}|Buchhaltung.vbproj|solutionrelative:languages\\de_language.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D-J.Eden\\AppData\\Roaming\\Buchhaltung\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,11 +29,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "en_language.resx",
+              "DocumentMoniker": "C:\\Users\\D-J.Eden\\source\\repos\\Buchhaltung\\Languages\\en_language.resx",
+              "RelativeDocumentMoniker": "Languages\\en_language.resx",
+              "ToolTip": "C:\\Users\\D-J.Eden\\source\\repos\\Buchhaltung\\Languages\\en_language.resx",
+              "RelativeToolTip": "Languages\\en_language.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-24T18:58:23.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "de_language.resx",
               "DocumentMoniker": "C:\\Users\\D-J.Eden\\source\\repos\\Buchhaltung\\Languages\\de_language.resx",
               "RelativeDocumentMoniker": "Languages\\de_language.resx",
@@ -49,32 +57,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Settings_Main_Menu.vb",
-              "DocumentMoniker": "C:\\Users\\D-J.Eden\\source\\repos\\Buchhaltung\\Men\u00FCs\\Einstellungen\\Settings_Main_Menu.vb",
-              "RelativeDocumentMoniker": "Men\u00FCs\\Einstellungen\\Settings_Main_Menu.vb",
-              "ToolTip": "C:\\Users\\D-J.Eden\\source\\repos\\Buchhaltung\\Men\u00FCs\\Einstellungen\\Settings_Main_Menu.vb",
-              "RelativeToolTip": "Men\u00FCs\\Einstellungen\\Settings_Main_Menu.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-07-18T20:40:24.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Settings_Main_Menu.vb [Entwurf]",
-              "DocumentMoniker": "C:\\Users\\D-J.Eden\\source\\repos\\Buchhaltung\\Men\u00FCs\\Einstellungen\\Settings_Main_Menu.vb",
-              "RelativeDocumentMoniker": "Men\u00FCs\\Einstellungen\\Settings_Main_Menu.vb",
-              "ToolTip": "C:\\Users\\D-J.Eden\\source\\repos\\Buchhaltung\\Men\u00FCs\\Einstellungen\\Settings_Main_Menu.vb [Entwurf]",
-              "RelativeToolTip": "Men\u00FCs\\Einstellungen\\Settings_Main_Menu.vb [Entwurf]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-07-18T20:39:53.059Z",
-              "EditorCaption": " [Entwurf]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "config.json",
               "DocumentMoniker": "C:\\Users\\D-J.Eden\\AppData\\Roaming\\Buchhaltung\\config.json",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Buchhaltung\\config.json",
@@ -87,13 +70,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Main_menu.vb",
               "DocumentMoniker": "C:\\Users\\D-J.Eden\\source\\repos\\Buchhaltung\\Men\u00FCs\\Main\\Main_menu.vb",
               "RelativeDocumentMoniker": "Men\u00FCs\\Main\\Main_menu.vb",
               "ToolTip": "C:\\Users\\D-J.Eden\\source\\repos\\Buchhaltung\\Men\u00FCs\\Main\\Main_menu.vb",
               "RelativeToolTip": "Men\u00FCs\\Main\\Main_menu.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-07-18T20:27:41.979Z",
               "EditorCaption": ""

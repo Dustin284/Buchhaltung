@@ -65,6 +65,24 @@ Namespace My.Resources
         End Property
         
         '''<summary>
+        '''  Sucht eine lokalisierte Zeichenfolge, die Buchhaltungssoftware ähnelt.
+        '''</summary>
+        Friend Shared ReadOnly Property accounting_software() As String
+            Get
+                Return ResourceManager.GetString("accounting_software", resourceCulture)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Sucht eine lokalisierte Zeichenfolge, die Buchungen ähnelt.
+        '''</summary>
+        Friend Shared ReadOnly Property booking() As String
+            Get
+                Return ResourceManager.GetString("booking", resourceCulture)
+            End Get
+        End Property
+        
+        '''<summary>
         '''  Sucht eine lokalisierte Zeichenfolge, die Datenbank ähnelt.
         '''</summary>
         Friend Shared ReadOnly Property database() As String
@@ -74,11 +92,29 @@ Namespace My.Resources
         End Property
         
         '''<summary>
+        '''  Sucht eine lokalisierte Zeichenfolge, die Finanzübersicht ähnelt.
+        '''</summary>
+        Friend Shared ReadOnly Property financial_overview() As String
+            Get
+                Return ResourceManager.GetString("financial_overview", resourceCulture)
+            End Get
+        End Property
+        
+        '''<summary>
         '''  Sucht eine lokalisierte Zeichenfolge, die Allgemein ähnelt.
         '''</summary>
         Friend Shared ReadOnly Property general() As String
             Get
                 Return ResourceManager.GetString("general", resourceCulture)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Sucht eine lokalisierte Zeichenfolge, die Letzte Buchungen ähnelt.
+        '''</summary>
+        Friend Shared ReadOnly Property last_booking() As String
+            Get
+                Return ResourceManager.GetString("last_booking", resourceCulture)
             End Get
         End Property
         
@@ -115,15 +151,6 @@ Namespace My.Resources
         Friend Shared ReadOnly Property settings_menu_title() As String
             Get
                 Return ResourceManager.GetString("settings_menu_title", resourceCulture)
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
-        '''</summary>
-        Friend Shared ReadOnly Property String1() As String
-            Get
-                Return ResourceManager.GetString("String1", resourceCulture)
             End Get
         End Property
         

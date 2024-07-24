@@ -22,6 +22,36 @@ Buchhaltung
   Ressourcenzuordnungen, die diese stark typisierte Ressourcenklasse verwenden.
 </summary>
 </member>
+<member name="P:Buchhaltung.My.Resources.en_language.accounting_software">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die Accounting Software ähnelt.
+</summary>
+</member>
+<member name="P:Buchhaltung.My.Resources.en_language.booking">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die Booking ähnelt.
+</summary>
+</member>
+<member name="P:Buchhaltung.My.Resources.en_language.database">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die Database ähnelt.
+</summary>
+</member>
+<member name="P:Buchhaltung.My.Resources.en_language.financial_overview">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die Financial overview ähnelt.
+</summary>
+</member>
+<member name="P:Buchhaltung.My.Resources.en_language.general">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die General ähnelt.
+</summary>
+</member>
+<member name="P:Buchhaltung.My.Resources.en_language.last_booking">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die Latest Booking ähnelt.
+</summary>
+</member>
 <member name="P:Buchhaltung.My.Resources.en_language.main_menu_title">
 <summary>
   Sucht eine lokalisierte Zeichenfolge, die Accounting • Main menu ähnelt.
@@ -42,6 +72,11 @@ Buchhaltung
   Sucht eine lokalisierte Zeichenfolge, die Accounting • Settings menu ähnelt.
 </summary>
 </member>
+<member name="P:Buchhaltung.My.Resources.en_language.users">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die Users ähnelt.
+</summary>
+</member>
 <member name="T:Buchhaltung.My.Resources.de_language">
 <summary>
   Eine stark typisierte Ressourcenklasse zum Suchen von lokalisierten Zeichenfolgen usw.
@@ -58,14 +93,34 @@ Buchhaltung
   Ressourcenzuordnungen, die diese stark typisierte Ressourcenklasse verwenden.
 </summary>
 </member>
+<member name="P:Buchhaltung.My.Resources.de_language.accounting_software">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die Buchhaltungssoftware ähnelt.
+</summary>
+</member>
+<member name="P:Buchhaltung.My.Resources.de_language.booking">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die Buchungen ähnelt.
+</summary>
+</member>
 <member name="P:Buchhaltung.My.Resources.de_language.database">
 <summary>
   Sucht eine lokalisierte Zeichenfolge, die Datenbank ähnelt.
 </summary>
 </member>
+<member name="P:Buchhaltung.My.Resources.de_language.financial_overview">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die Finanzübersicht ähnelt.
+</summary>
+</member>
 <member name="P:Buchhaltung.My.Resources.de_language.general">
 <summary>
   Sucht eine lokalisierte Zeichenfolge, die Allgemein ähnelt.
+</summary>
+</member>
+<member name="P:Buchhaltung.My.Resources.de_language.last_booking">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die Letzte Buchungen ähnelt.
 </summary>
 </member>
 <member name="P:Buchhaltung.My.Resources.de_language.main_menu_title">
@@ -86,11 +141,6 @@ Buchhaltung
 <member name="P:Buchhaltung.My.Resources.de_language.settings_menu_title">
 <summary>
   Sucht eine lokalisierte Zeichenfolge, die Buchhaltung • Einstellungen ähnelt.
-</summary>
-</member>
-<member name="P:Buchhaltung.My.Resources.de_language.String1">
-<summary>
-  Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
 </summary>
 </member>
 <member name="P:Buchhaltung.My.Resources.de_language.users">
